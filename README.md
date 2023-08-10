@@ -1,6 +1,6 @@
 # Project related to the discipline of Web Development at CESMAC college
 
-## Project requirements
+### Project requirements
 
 - Step 1:
 We should create a web page for managing users of a business. We must create a registration page with a form containing the following fields: Name; Email; Date of birth; Type of housing (House or Apartment - checkbox). HTML5 input types should be used.
