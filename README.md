@@ -15,4 +15,6 @@ Add two buttons:
 The text fields must have a 2px solid blue border and the page background should be gray (#f3f3f3).
 
 ### Project result:
+I took the liberty of changing the colors and the size of the border a little to make the layout a bit more pleasant. In the case of choosing the type of housing, as the user must only choose a single option and following what I learned in the HCI course, I chose to use the 'radio' type instead of the 'checkbox' type.
+
 [Link to the web page](https://genesluna.github.io/wd-ea01/)
