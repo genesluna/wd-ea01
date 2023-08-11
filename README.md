@@ -13,3 +13,6 @@ Add two buttons:
 
 - Step 3:
 The text fields must have a 2px solid blue border and the page background should be gray (#f3f3f3).
+
+### Project result:
+[Link to the web page](https://genesluna.github.io/wd-ea01/)
