@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Desenvolvimento Web - EA01</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="form">
+        <header>Registro</header>
+        <form action="#">
+          <input type="text" placeholder="Digite seu nome" />
+          <input type="email" placeholder="Digite seu email" />
+          <label for="birthdate">Data de nascimento:</label>
+          <input type="date" id="birthdate" />
+          <span>Tipo de moradia:</span>
+          <div>
+            <label for="house-option" class="radio">
+              <input type="radio" id="house-option" name="housing-selector" />
+              <span>Casa</span>
+            </label>
+            <label for="apartment-option" class="radio">
+              <input type="radio" id="apartment-option" name="housing-selector" />
+              <span>Apartamento</span>
+            </label>
+          </div>
+          <input type="button" class="button save" value="Salvar" />
+          <input type="button" class="button clear" value="Limpar" />
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
